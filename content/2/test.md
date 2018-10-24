@@ -6,7 +6,7 @@ images:
 - src: thumb.png
   alt: "Logo Gross"
 - src: bw.png
-  alt: "Variante Schwarzweiss"
+  alt: "Variante Schwarzweizz"
 ---
 
 Konzept für ein Logo der Band Planzplätz. Das Logo verbindet die urchige aber modern interpretierte
