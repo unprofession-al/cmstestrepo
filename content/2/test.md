@@ -1,5 +1,5 @@
 ---
-title: "Logo Pflanzplätzzzz"
+title: "Logo Pflanzplätzli"
 tags: [ "Logo" ]
 date: "2016-03-06"
 images:
