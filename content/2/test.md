@@ -4,7 +4,7 @@ tags: [ "Logo" ]
 date: "2016-03-06"
 images:
 - src: thumb.png
-  alt: "Logo Gross"
+  alt: "Logo Grozzzz"
 - src: bw.png
   alt: "Variante Schwarzweizz"
 ---
