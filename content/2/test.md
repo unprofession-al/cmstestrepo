@@ -1,6 +1,6 @@
 ---
 title: "Logo Pflanzplätzzzz"
-tags: [ "Logo" ]
+tags: [ "Log" ]
 date: "2016-03-06"
 images:
 - src: thumb.png
