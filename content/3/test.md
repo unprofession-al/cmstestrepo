@@ -8,5 +8,5 @@ images:
 - src: bw.png
   alt: "Variante Schwarzweiss"
 ---
-# Konzept für ein Logo der Band *Planzplätz*. Das Logo verbindet die urchige aber modern interpretierte `Musik` mit dem Gärtnertum der sich im Namen versteckt.
+Konzept für ein Logo der Band *Planzplätz*. Das Logo verbindet die urchige aber modern interpretierte `Musik` mit dem Gärtnertum der sich im Namen versteckt.
 
