@@ -8,6 +8,6 @@ images:
 - src: bw.png
   alt: "Variante Schwarzweiss"
 ---
-Konzept für ein Logo der Band *Planzplätz*. Das Logo verbindet die urchige aber <div>modern interpretierte&nbsp;`Musik`&nbsp;mit dem Gärtnertum der sich im [Namen](<http: www.apple.com="">) versteckt.
+Konzept für ein Logo der Band *Planzplätz*. Das Logo verbindet die urchige aber &lt;div&gt;modern interpretierte&nbsp;`Musik`&nbsp;mit dem Gärtnertum der sich im [Namen](&lt;http: www.apple.com=""&gt;) versteckt.
 
-</http:></div>
+&lt;/http:&gt;&lt;/div&gt;
